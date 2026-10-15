@@ -17,7 +17,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=RiverLumina&color=grey" alt="Profile views" />
-  <a href="mailto:your@email.com">
+  <a href="Luminariverdev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1517167836810838162">
